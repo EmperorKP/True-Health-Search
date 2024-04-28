@@ -153,6 +153,8 @@ function NavBar() {
                           src={user.picture}
                           borderRadius="full"
                         />
+
+                        
                       </PopoverTrigger>
                       <Portal>
                         <PopoverContent>
